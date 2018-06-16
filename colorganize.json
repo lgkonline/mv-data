@@ -2,13 +2,13 @@
 	"color": [
 		{
 			"hue": 180,
-			"saturation": 50,
-			"lightness": 50
+			"saturation": 75,
+			"lightness": 34
 		},
 		{
 			"hue": 180,
-			"saturation": 75,
-			"lightness": 34
+			"saturation": 50,
+			"lightness": 50
 		}
 	]
 }
