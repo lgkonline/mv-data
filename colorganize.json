@@ -9,6 +9,12 @@
 			"hue": 222,
 			"saturation": 32,
 			"lightness": 61
+		},
+		{
+			"name": "Orange",
+			"hue": 21,
+			"saturation": 83,
+			"lightness": 57
 		}
 	]
 }
