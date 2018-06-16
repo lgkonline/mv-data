@@ -1,14 +1,14 @@
 {
 	"color": [
 		{
-			"hue": 180,
-			"saturation": 75,
-			"lightness": 34
-		},
-		{
 			"hue": 285,
 			"saturation": 77,
 			"lightness": 50
+		},
+		{
+			"hue": 180,
+			"saturation": 75,
+			"lightness": 34
 		}
 	]
 }
